@@ -39,6 +39,7 @@
     {"id":{"name":"Object4","path":"objects/Object4/Object4.yy",},},
     {"id":{"name":"wall","path":"sprites/wall/wall.yy",},},
     {"id":{"name":"map","path":"sprites/map/map.yy",},},
+    {"id":{"name":"phantom2","path":"sprites/phantom2/phantom2.yy",},},
     {"id":{"name":"Object3","path":"objects/Object3/Object3.yy",},},
     {"id":{"name":"Pacman_down","path":"sprites/Pacman_down/Pacman_down.yy",},},
     {"id":{"name":"phantom","path":"sprites/phantom/phantom.yy",},},

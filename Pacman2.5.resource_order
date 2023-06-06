@@ -1,4 +1,6 @@
 {
   "FolderOrderSettings": [],
-  "ResourceOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"phantom2","order":1,"path":"sprites/phantom2/phantom2.yy",},
+  ],
 }

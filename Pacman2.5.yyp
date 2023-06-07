@@ -37,6 +37,7 @@
     {"id":{"name":"death","path":"sprites/death/death.yy",},},
     {"id":{"name":"little_coin","path":"sprites/little_coin/little_coin.yy",},},
     {"id":{"name":"Object4","path":"objects/Object4/Object4.yy",},},
+    {"id":{"name":"phantom3","path":"sprites/phantom3/phantom3.yy",},},
     {"id":{"name":"wall","path":"sprites/wall/wall.yy",},},
     {"id":{"name":"map","path":"sprites/map/map.yy",},},
     {"id":{"name":"phantom2","path":"sprites/phantom2/phantom2.yy",},},
